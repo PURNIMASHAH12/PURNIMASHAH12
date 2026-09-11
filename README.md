@@ -1,25 +1,29 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Purnima%20Shah&fontSize=80&theme=darkviolet" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Purnima%20Shah&fontSize=80&theme=darkviolet" width="100%" alt="Purnima Shah Header Banner" />
 
   <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;Software+Developer;Building+Real-World+Web+Applications" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Software+Developer;Building+Real-World+Web+Applications" alt="Typing Animation" />
 
 <br/><br/>
 
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="Full Stack Developer" />
-  <img src="https://img.shields.io/badge/Location-Butwal%2C%20Nepal-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-A855F7?style=flat-square&logo=react&logoColor=white" alt="MERN Stack" />
+  <img src="https://img.shields.io/badge/BSc%20CSIT-Nepathya%20College-8B5CF6?style=flat-square&logo=gitbook&logoColor=white" alt="Education Badge" />
+  <img src="https://img.shields.io/badge/Location-Butwal%2C%20Nepal-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Badge" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-A855F7?style=flat-square&logo=react&logoColor=white" alt="Focus Badge" />
 
 <br/><br/>
 
   <a href="https://github.com/PURNIMASHAH12">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
   <a href="https://www.linkedin.com/in/purnima-shah-715a9536b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:purnimashah369@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
 <br/><br/>
@@ -34,44 +38,44 @@
 
 ## 👋 About Me
 
-I'm **Purnima Shah**, a **Full Stack Developer** passionate about building practical, user-focused web applications.
+Hi, I'm **Purnima Shah**, a **Full Stack Developer** and **BSc CSIT graduate** passionate about building practical, responsive, and user-focused web applications.
 
-I enjoy working across the entire development lifecycle — from designing responsive interfaces and building REST APIs to database management, authentication, real-time communication, and deployment.
+I specialize in the **MERN Stack** and enjoy working across both frontend and backend development — from creating responsive interfaces and REST APIs to authentication, database management, API integration, and real-time application features.
 
-My primary focus is on developing applications using the **MERN stack** and continuously improving my understanding of software architecture, backend development, and scalable application design.
+I believe in learning by building real-world projects and continuously improving my problem-solving and software development skills.
 
-### 🚀 What I Do
+### 💻 What I Work With
 
-* 💻 Build full-stack web applications using **React.js, Node.js, Express.js and MongoDB**
-* 🔐 Implement authentication and role-based access control
-* 🛒 Develop real-world systems such as ordering, management and e-commerce applications
-* ⚡ Build RESTful APIs and real-time features using **Socket.IO**
-* 🗄️ Design and manage MongoDB databases using **Mongoose**
-* 🎨 Create responsive and user-friendly frontend interfaces
-* 🔧 Debug, test and improve application performance
-* 🌱 Continuously learn modern software development practices
+* ⚛️ **Frontend Development** — React.js, HTML, CSS, Tailwind CSS
+* ⚙️ **Backend Development** — Node.js, Express.js, REST APIs
+* 🗄️ **Databases** — MongoDB, Mongoose, MySQL
+* 🔐 **Authentication & Security** — JWT, bcrypt, middleware, form validation
+* 🔗 **API Development & Integration** — RESTful APIs, CRUD operations
+* ☁️ **File & Cloud Services** — Multer, Cloudinary
+* 🛠️ **Development Tools** — Git, GitHub, Postman, VS Code
 
-### 🎯 Currently
+### 🌱 Currently
 
 * 💼 Working as a **Full Stack Development Intern at VELORA GLOBAL**
 * 🚀 Building and improving full-stack web applications
-* 📚 Strengthening my skills in **MERN Stack, System Design and Backend Development**
-* 🔍 Exploring better approaches to authentication, real-time systems and scalable application architecture
+* 📚 Strengthening my MERN Stack and backend development skills
+* 🔐 Learning more about secure authentication and application architecture
+* 💡 Exploring better approaches to building scalable and maintainable applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,java" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,c,cpp,java" alt="Programming Languages" />
 </p>
 
 ### 🎨 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" alt="Frontend Technologies" />
 </p>
 
 ### ⚙️ Backend
@@ -80,99 +84,157 @@ My primary focus is on developing applications using the **MERN stack** and cont
   <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies" />
 </p>
 
-### 🗄️ Database
+### 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="Database Technologies" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database Technologies" />
 </p>
 
-### 🔧 Tools & Technologies
+### 🔧 Tools & Services
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm" alt="Development Tools" />
+</p>
+
+### ☁️ File & Cloud Services
+
+<p align="left">
+
+  <img src="https://img.shields.io/badge/Multer-000000?style=for-the-badge&logo=node.js&logoColor=white" alt="Multer" />
+
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🩸 LifeLink — Blood Donor Finder & Management System
+
+A full-stack **Blood Donor Finder and Management System** developed using the MERN stack to help users find suitable blood donors based on blood group and location.
+
+#### ✨ Features
+
+* 👤 User registration and login
+* 🔐 Authentication and authorization
+* 🩸 Donor registration and donor information management
+* 📋 Blood request creation and management
+* 🔎 Blood group-based donor matching
+* 📍 Location-based donor matching
+* ⚡ Nearest-donor matching approach
+* 🗄️ MongoDB database integration
+* 🔗 RESTful APIs for frontend-backend communication
+
+**Tech Stack:**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT`
+
+🔗 **Repository:**
+https://github.com/PURNIMASHAH12/LIFELINK1
+
+---
+
 ### 🍽️ Restaurant QR Ordering System
 
-A full-stack restaurant ordering platform that allows customers to scan a QR code, browse the menu, place orders and track order confirmation.
+A full-stack restaurant ordering application designed around a **QR-based digital ordering workflow**.
 
-**Key Features:**
+#### ✨ Features
 
-* 📱 QR-based restaurant ordering workflow
-* 🍔 Dynamic food and category management
+* 📱 QR-based restaurant ordering
+* 🍔 Digital food menu
 * 🛒 Shopping cart and checkout
-* 👨‍🍳 Waiter/Admin order management
+* 👨‍🍳 Waiter and admin order management
 * 🔐 Role-based authentication
+* 🪑 Dine-in ordering
+* 📦 Parcel ordering
 * 💳 Counter and online payment workflow
 * 🔄 Real-time order updates using Socket.IO
-* 📦 Dine-in and parcel ordering
+* 📊 Food and category management
 * 🗄️ MongoDB database integration
 
 **Tech Stack:**
+
 `React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `Socket.IO` `JWT`
 
 ---
 
-### 🩸 Life-Link — Blood Donation Platform
+### 💬 Real-Time WebSocket Application
 
-A web application designed to connect blood donors with people searching for compatible blood groups.
-
-**Key Features:**
-
-* 🔎 Blood donor search
-* 🩸 Blood group-based matching
-* 👤 Donor and recipient management
-* 🔐 Authentication and authorization
-* 📊 Admin management
-* 📩 Blood request workflow
-* 🗄️ MongoDB-based data management
+A project focused on understanding **real-time client-server communication** and WebSocket-based application functionality.
 
 **Tech Stack:**
-`React.js` `Node.js` `Express.js` `MongoDB` `JWT`
+
+`JavaScript` `Node.js` `Express.js` `WebSocket`
+
+🔗 **Repository:**
+https://github.com/PURNIMASHAH12/websocket
 
 ---
 
-### 💬 Real-Time Chat Application
+### 🔐 Role-Based Authentication System
 
-A real-time communication application focused on implementing client-server communication and live messaging.
+A web application demonstrating authentication and **role-based access control** using modern backend development practices.
 
 **Tech Stack:**
-`JavaScript` `Node.js` `Express.js` `Socket.IO`
+
+`JavaScript` `Node.js` `Express.js` `MongoDB` `JWT`
+
+🔗 **Repository:**
+https://github.com/PURNIMASHAH12/rolebased
 
 ---
 
-## 🧩 What I'm Learning
+## 🔐 Security & Development
 
-```yaml
-currently_learning:
-  - Advanced MERN Stack Development
-  - REST API Design
-  - System Design
-  - Authentication & Authorization
-  - Real-Time Web Applications
-  - Database Design
-  - Software Architecture
+I have practical knowledge of:
 
-improving:
-  - React.js
-  - Node.js
-  - Express.js
-  - MongoDB
-  - Git & GitHub
-  - API Development
-  - Problem Solving
+* 🔑 JWT authentication
+* 🔒 Password hashing with bcrypt
+* 🛡️ Middleware-based authorization
+* ✅ Form validation
+* 🔗 Secure REST API development
+* 👥 Role-based access control
+* 🗄️ Database validation and data management
 
-future_focus:
-  - Microservices
-  - Cloud Deployment
-  - Scalable Backend Systems
-  - DevOps
-  - AI-powered Web Applications
-```
+---
+
+## 📜 Certifications & Courses
+
+### 🎓 MERN Stack Development
+
+**Synthbit Technologies**
+
+Completed a MERN Stack Development course covering:
+
+* MongoDB
+* Express.js
+* React.js
+* Node.js
+* RESTful APIs
+* CRUD operations
+* Database integration
+* Authentication & authorization
+* Routing
+* State management
+* Backend development
+
+### 🤖 AI Security and Governance
+
+**Securiti.ai**
+
+Knowledge of:
+
+* AI security
+* Privacy
+* Risk assessment
+* Responsible AI
+* Data leakage risks
+* Model manipulation
+* Unauthorized access
+* AI governance
+* Ethical AI
+* Security controls
 
 ---
 
@@ -182,17 +244,18 @@ future_focus:
 
 **2026 – Present**
 
-Working on full-stack web development and gaining practical experience in building, debugging and improving production-oriented applications.
+Working as a Full Stack Development Intern, gaining practical experience in developing and improving web applications.
 
 **Focus Areas:**
 
-* Full-stack application development
-* Frontend development with React
-* Backend API development
+* Full-stack web development
+* React.js frontend development
+* Node.js & Express.js backend development
+* REST API development
 * Database integration
 * Authentication and authorization
-* Git-based development workflow
-* Debugging and application optimization
+* Git & GitHub workflow
+* Debugging and application improvement
 
 ---
 
@@ -244,19 +307,49 @@ Working on full-stack web development and gaining practical experience in buildi
 
 ---
 
-## 🌱 My Development Journey
+## 🎯 Current Focus
 
-```text
-Learning → Building → Debugging → Improving → Deploying
+```yaml
+role: "Full Stack Developer"
+
+learning:
+  - "Advanced MERN Stack Development"
+  - "System Design"
+  - "Backend Architecture"
+  - "REST API Development"
+  - "Authentication & Security"
+
+building:
+  - "Restaurant QR Ordering System"
+  - "Full-Stack Web Applications"
+  - "Real-World MERN Projects"
+
+improving:
+  - "React.js"
+  - "Node.js"
+  - "Express.js"
+  - "MongoDB"
+  - "Database Design"
+  - "Problem Solving"
+
+exploring:
+  - "Real-Time Applications"
+  - "Scalable Backend Systems"
+  - "Cloud Services"
+  - "Modern Web Development"
+
+open_to:
+  - "Full Stack Developer Roles"
+  - "Software Development Opportunities"
+  - "Internships"
+  - "Collaborative Projects"
 ```
-
-I believe the best way to learn software development is by **building real projects, solving real problems and continuously improving the code**.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in:
+I'm always interested in:
 
 * 💼 Full Stack Development opportunities
 * 🚀 Software Engineering roles
@@ -268,6 +361,6 @@ I'm interested in:
 
 ### ⭐ Thanks for visiting my profile!
 
-**Let's build something amazing together. 🚀**
+**Let's build something useful together. 🚀**
 
 </div>
