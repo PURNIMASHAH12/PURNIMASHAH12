@@ -40,7 +40,7 @@
 
 Hi, I'm **Purnima Shah**, a **Full Stack Developer** and **BSc CSIT graduate** passionate about building practical, responsive, and user-focused web applications.
 
-I specialize in the **MERN Stack** and enjoy working across both frontend and backend development — from creating responsive interfaces and REST APIs to authentication, database management, API integration, and real-time application features.
+I specialize in the **FULL STACK** and enjoy working across both frontend and backend development — from creating responsive interfaces and REST APIs to authentication, database management, API integration, and real-time application features.
 
 I believe in learning by building real-world projects and continuously improving my problem-solving and software development skills.
 
